@@ -79,10 +79,14 @@ p{
         background-color: hsl(30, 38%, 92%);
     }
     .card{
-        width: 90%;
-        margin: 0 auto;
+        text-align: center;
         display: flex;
         flex-direction: column;
+    }
+    .left img{
+        margin: 0 0 15px 0;
+        width: 100%;
+        height: auto;
     }
 }
 
