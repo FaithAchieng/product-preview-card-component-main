@@ -11,21 +11,21 @@ body{
     margin: 0 auto;
     display: flex;
     flex-direction: row;
-    width: 60%;
+    width: 45%;
     border-radius: 10px;
-    height: 450px;
+    height: 500px;
 }
 .left{
-width: 67%;
+width: 50%;
 }
 .right{
-width: 33%;
-padding: 20px;
-padding-right: 60px;
+width: 40%;
+padding: 10px;
+padding-right: 0px;
 }
 .left img{
     width: 95%;
-    height: 450px;
+    height: 500px;
     object-fit: cover;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
